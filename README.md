@@ -1,16 +1,18 @@
-# neos2test
-Example Code for Altera NeosII
+# Example Code for Altera NeosII
 
-neos2_step1
-  Nios II/e‚ÅHello, world! (Quartus II‚ÆQsysj
+## neos2_step1
+
+* Nios II/eã§Hello, world! (Quartus IIã¨Qsysï¼‰
   http://fpga-de0.hatenablog.jp/entry/2014/09/14/174404
 
-neos2_step2
-  Nios II/e‚ÅHello, world! (Nios II Software Build Toolsj
+## neos2_step2
+
+* Nios II/eã§Hello, world! (Nios II Software Build Toolsï¼‰
   http://fpga-de0.hatenablog.jp/entry/2014/09/14/184601
 
-neos2_step3
-  Nios II/e‚ÅLƒ`ƒJ
+## neos2_step3
+
+* Nios II/eã§Lãƒã‚«
   http://fpga-de0.hatenablog.jp/entry/2014/09/14/211756
 
 EOF
