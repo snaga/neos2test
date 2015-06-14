@@ -1,0 +1,32 @@
+!SESSION 2015-06-14 16:12:53.308 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-06-14 16:14:29.848
+!MESSAGE Indexed 'neos2test_bsp' (79 sources, 114 headers) in 2.09 sec: 3,207 declarations; 4,950 references; 55 unresolved inclusions; 176 syntax errors; 113 unresolved names (1.37%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-06-14 16:14:31.906
+!MESSAGE Indexed 'neos2test' (1 sources, 13 headers) in 0.06 sec: 1 declarations; 1 references; 14 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-06-14 16:20:04.918
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x10 --id=0x39393939 --timestamp=1434265602]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-06-14 16:20:08.682
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x10 --id=0x39393939 --timestamp=1434265602 /cygdrive/c/Temp/neos2/software/neos2test/neos2test.elf]
+!SESSION 2015-06-14 16:31:17.334 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-06-14 17:09:28.173
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x10 --id=0x39393939 --timestamp=1434269085]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-06-14 17:09:32.776
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x10 --id=0x39393939 --timestamp=1434269085 /cygdrive/c/Temp/neos2/software/neos2test/neos2test.elf]
